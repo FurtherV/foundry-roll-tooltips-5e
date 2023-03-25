@@ -1,0 +1,45 @@
+{
+    "id": "roll-tooltips-5e",
+    "title": "Roll Tooltips DnD5e",
+    "description": "Adds tooltips to rolls and their components in chat messages based on their flavor text.",
+    "version": "0.1",
+    "library": "false",
+    "manifestPlusVersion": "1.2.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 10
+    },
+    "authors": [
+        {
+            "name": "FurtherV",
+            "url": "https://github.com/FurtheRV",
+            "discord": "FurtherV#5068"
+        }
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "2.0.0"
+                }
+            }
+        ],
+        "requires": []
+    },
+    "scripts": ["scripts/roll-tooltips-5e.js"],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        }
+    ],
+    "url": "replaced by workflow",
+    "manifest": "replaced by workflow",
+    "download": "replaced by workflow",
+    "changelog": "replaced by workflow",
+    "readme": "replaced by workflow",
+    "license": "LICENSE"
+}

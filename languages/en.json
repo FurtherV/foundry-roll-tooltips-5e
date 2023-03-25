@@ -1,0 +1,10 @@
+{
+    "ROLL-TOOLTIPS-5E": {
+        "settings": {
+            "modify_chat_message": {
+                "Name": "Modify Chat Messages",
+                "Hint": "If disabled, then this module will not modify any chat messages for this client."
+            }
+        }
+    }
+}
