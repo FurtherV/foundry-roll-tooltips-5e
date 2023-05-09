@@ -3,7 +3,7 @@
         "settings": {
             "modify-chat-message": {
                 "Name": "Modify Chat Messages",
-                "Hint": "If disabled, then this module will not modify any chat messages for this client."
+                "Hint": "When this setting is disabled, then chat messages will not be modified at all."
             }
         }
     }

@@ -28,7 +28,7 @@
         ],
         "requires": []
     },
-    "scripts": ["scripts/roll-tooltips-5e.js"],
+    "esmodules": ["setup.mjs"],
     "languages": [
         {
             "lang": "en",
