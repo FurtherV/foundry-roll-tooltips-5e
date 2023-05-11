@@ -9,6 +9,11 @@ Dagger +1: `1d4[Roll] + 1[Weapon Bonus]`
 
 ## Changelog
 
-### 1.0
+### 1.0.2
+
+-   Refactored module structure
+-   Made chat message changes less invasive
+
+### 1.0.0
 
 -   Initial Release
