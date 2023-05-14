@@ -45,11 +45,7 @@ export function _renderChatMessage(message, messageHtml, data) {
     const newDiceFormulaDiv = $("<div>").addClass("dice-formula");
 
     for (const roll of message.rolls) {
-        console.debug("Roll", roll);
-
         for (const term of roll.terms) {
-            console.debug("Term", term);
-
             let flavor =
                 term.flags?.[MODULE_ID]?.flavor || term.options?.flavor;
 
