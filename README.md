@@ -18,7 +18,7 @@ This module allows you to display flavor text as a tooltip on your roll formula 
 
 ### +1 Dagger
 
-Formula: `1d4[Dice] + @mod[Modifier] + 1[Flat Bonus]`
+Formula: `1d4[Dice] + @mod[Modifier] + 1[Flat Bonus]`  
 ![](https://raw.githubusercontent.com/FurtherV/foundry-roll-tooltips-5e/master/.github/example-dagger_plus_1.gif)
 
 ## Changelog
