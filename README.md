@@ -20,11 +20,4 @@ Formula: `1d4[Dice] + @mod[Modifier] + 1[Flat Bonus]`
 
 ## Changelog
 
-### 1.0.1 and 1.0.2
-
--   Refactored module structure
--   Made chat message changes less invasive
-
-### 1.0.0
-
--   Initial Release
+See ![Changelog](CHANGELOG.md)
