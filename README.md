@@ -20,4 +20,4 @@ Formula: `1d4[Dice] + @mod[Modifier] + 1[Flat Bonus]`
 
 ## Changelog
 
-See ![Changelog](CHANGELOG.md)
+See [Changelog](CHANGELOG.md)
